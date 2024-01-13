@@ -7,5 +7,6 @@ public class java1 {
         double r = sc.nextDouble();
         double Area = Math.PI*(r*r);
         System.out.println(Area);
-    }
+        sc.close();
+    }    
 }
